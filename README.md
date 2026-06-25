@@ -113,6 +113,21 @@ Computer Science Student
 COMSATS University Islamabad, Sahiwal Campus
 
 ---
+## 🔗 Repository
+
+GitHub Repository:
+https://github.com/ittx051-1029/Royal-Cafe-Management-System
+
+---
+
+## 🚀 Future Enhancements
+
+- Online Payment Integration
+- Inventory Management System
+- Sales Analytics Dashboard
+- Email Notifications
+- Mobile Responsive Design
+- Advanced Admin Controls
 
 ## 📄 License
 
