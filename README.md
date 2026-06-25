@@ -1,2 +1,1 @@
-# Royal-Cafe-Management-System
-A Java Swing and MySQL based Cafe Management System for managing customers, orders, billing, and menu operations.
+Royal Cafe Management System is a PHP and MySQL based web application that allows customers to browse menu items, place orders, manage carts, submit feedback, and interact with the cafe online. The system also provides administrative features for managing orders and customer activities.
